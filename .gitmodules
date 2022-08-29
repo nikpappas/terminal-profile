@@ -1,0 +1,3 @@
+[submodule "git-shortcuts"]
+	path = git-shortcuts
+	url = https://nikpappas@github.com/nikpappas/git-shortcuts.git
